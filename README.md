@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brfsouza
 - 👀 I’m interested in Front End development.
-- 🌱 I’m currently learning CSS and Java. 
+- 🌱 I’m currently learning CSS and JavaScript. 
 - 💞️ I’m looking to collaborate on projects that provides me learning experiences.
 - 📫 You can reach me on GitHub: https://github.com/brfsouza
 
